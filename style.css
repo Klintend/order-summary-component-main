@@ -122,7 +122,7 @@
 
 @media (max-width: 690px) {
  .container{
-   background: linear-gradient(rgba(114, 128, 167, 0.5), rgba(114, 128, 167, 0.5)), url('./images/pattern-background-mobile.svg');
+   background: linear-gradient(rgba(114, 128, 167, 0.5), rgba(114, 128, 167, 0.5)), url(./images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
  }
 
