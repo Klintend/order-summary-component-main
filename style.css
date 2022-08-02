@@ -12,7 +12,7 @@
  display: grid;
  place-items: center;
  min-height: 100vh;
- background: linear-gradient(rgba(114, 128, 167, 0.4), rgba(114, 128, 167, 0.4)), url('/images/pattern-background-desktop.svg');
+ background: linear-gradient(rgba(114, 128, 167, 0.4), rgba(114, 128, 167, 0.4)), url('./images/pattern-background-desktop.svg');
  background-repeat: no-repeat;
 }
 
@@ -122,7 +122,7 @@
 
 @media (max-width: 690px) {
  .container{
-   background: linear-gradient(rgba(114, 128, 167, 0.5), rgba(114, 128, 167, 0.5)), url('/images/pattern-background-mobile.svg');
+   background: linear-gradient(rgba(114, 128, 167, 0.5), rgba(114, 128, 167, 0.5)), url('./images/pattern-background-mobile.svg');
     background-repeat: no-repeat;
  }
 
